@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from "react";
+import React from "react";
 import NewsPage from "./pages/NewsPage";
 import { Route } from "react-router-dom";
 
